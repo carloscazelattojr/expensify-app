@@ -49,7 +49,7 @@ npm i react-native-heroicons
  
 <div align="center">
   <a href="#">
-      <img src="https://github.com/carloscazelattojr/expesify/blob/main/src/assets/printTela.png.png" width="200" alt="preview" />
+      <img src="https://github.com/carloscazelattojr/expensify-app/blob/main/src/asset/printTela.png" width="200" alt="preview" />
       
   </a>
 </div>
